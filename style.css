@@ -1,0 +1,42 @@
+.text-satu {
+ text-align: justify;
+ padding: 5px 5px;
+ hyphens: auto;
+ text-align-last: right;
+ max-width: 1000px;
+}
+.gambar-satu {
+ height: 200px;
+ width: 200px;
+ float: right;
+ padding: 5px;
+}
+.text-satu, .text-dua, .text-tiga, .text-empat {
+ margin: 0 auto;
+}
+.text-dua {
+ text-align: justify;
+ padding: 5px 5px;
+ hyphens: auto;
+ text-align-last: left;
+ max-width: 1000px;
+}
+.gambar-dua {
+ height: 200px;
+ width: 200px;
+ float: left;
+ padding: 5px;
+}
+.text-tiga {
+ text-align: justify;
+ padding: 5px 5px;
+ hyphens: auto;
+ text-align-last: center;
+ max-width: 1000px;
+}
+.gambar-tiga {
+ height: 200px;
+ width: 200px;
+ float: right;
+ padding: 5px;
+}
